@@ -1,0 +1,32 @@
+{
+  "pool": "0x4e68Ccd3E89f51C3074ca5072bbAC773960dFa36",
+  "network": "Ethereum mainnet",
+  "chain_id": 1,
+  "requested_days": 60,
+  "actual_start_date": "2026-07-18",
+  "actual_end_date": "2026-09-15",
+  "start_timestamp_utc": "2026-07-18T00:00:00Z",
+  "end_timestamp_utc_exclusive": "2026-09-16T00:00:00Z",
+  "start_block": 25555859,
+  "end_block": 25986306,
+  "finalized_ceiling_block": 25987602,
+  "finalized_ceiling_timestamp": "2026-09-16T04:19:35Z",
+  "rpc_source": "default public endpoint",
+  "block_rpc_source": "BLOCK_RPC_URL environment override",
+  "event_signatures": {
+    "Swap": "Swap(address,address,int256,int256,uint160,uint128,int24)",
+    "Mint": "Mint(address,address,int24,int24,uint128,uint256,uint256)"
+  },
+  "collection_status": "complete",
+  "completed_coverage": {
+    "start_block": 25555859,
+    "end_block": 25986306,
+    "completed_through_timestamp": "2026-09-15T23:59:59Z",
+    "completed_ranges": [
+      [
+        25555859,
+        25986306
+      ]
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "pool": "0x4e68Ccd3E89f51C3074ca5072bbAC773960dFa36",
+  "start_block": 25555859,
+  "end_block": 25986306,
+  "next_block": 25986307,
+  "batch_size": 10,
+  "completed_ranges": [
+    [
+      25555859,
+      25986306
+    ]
+  ],
+  "status": "complete",
+  "completed_through_timestamp": "2026-09-15T23:59:59Z"
+}

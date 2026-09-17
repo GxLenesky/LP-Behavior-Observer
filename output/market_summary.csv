@@ -1,0 +1,15 @@
+metric,value
+start_date,2026-07-18
+end_date,2026-09-15
+calendar_days,60
+swap_count,69779
+mint_count,6263
+first_close_usdt_per_eth,1860.0615337073436
+last_close_usdt_per_eth,2405.1356242533816
+sample_simple_return,0.29304089174922865
+positive_next_day_share,0.559322033898305
+total_mint_value_usdt,431660469.7115197
+above_value_share,0.046268111997775425
+below_value_share,0.06748119113055914
+around_value_share,0.8862506968716654
+median_event_range_width,0.13799310045995009

@@ -1,0 +1,5 @@
+relationship,n_valid,correlation
+LP imbalance vs next-day return,59,0.02899657112987319
+Range-center displacement vs next-day return,59,-0.058864679564438305
+LP imbalance vs same-day return,59,-0.011488307182210375
+Selected width vs next-day high-low range,59,-0.008721410884780716
